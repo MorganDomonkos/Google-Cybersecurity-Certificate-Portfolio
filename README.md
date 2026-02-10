@@ -8,18 +8,29 @@ Security Tools: Chronicle (SIEM), Suricata (IDS), Wireshark (Packet Analysis), T
 Frameworks: NIST Cybersecurity Framework (CSF), NIST SP 800-53, NIST SP 800-61 (Incident Response)
 
 ## Project Highlights
-1. Security Audit & Risk Management
-Project: Internal Security Audit of Botium Toys
-What I did: Performed a gap analysis against NIST CSF, identified vulnerabilities in legacy systems, and drafted a remediation plan.
-Key Skills: Risk Assessment, Compliance, Technical Documentation.
+### Governance & Compliance
+**Controls and Compliance Checklist**
+* **Objective:** Evaluated organizational security posture against industry standards.Conducted a gap analysis to identify missing administrative, technical, and physical controls.
 
-2. Network Defense & Monitoring
-Project: Intrusion Detection with Suricata
-What I did: Analyzed network traffic logs to identify malicious signatures and configured Suricata rules to alert on potential threats.
-Key Skills: IDS/IPS, Log Analysis, Network Security.
+### Incident Response & Analysis
+*This section demonstrates my ability to document and analyze security events across the incident lifecycle.*
 
+| Project | Focus Area | Key Deliverable |
+| :--- | :--- | :--- |
+| **Cybersecurity Incident Report** | Detection & Containment | Detailed log of a simulated breach and immediate response steps. |
+| **Incident Report Analysis** | Root Cause Analysis | Evaluation of threat actor TTPs (Tactics, Techniques, and Procedures). |
+| **Security Incident Report** | Post-Incident Reporting | Comprehensive summary for stakeholders including remediation steps. |
 
-Certification Status
-Certificate Issued by: Google via Coursera
-Completion Date: TBA
-Verify:
+### Technical Operations (Linux)
+**Managing File Permissions via CLI**
+* **Scenario:** Auditing server files to ensure the Principle of Least Privilege (PoLP).
+* **Technical Implementation:**
+    * Used `ls -l` to identify over-privileged files.
+    * Applied `chmod` to restrict read/write/execute permissions.
+    * Used `chown` to reassign file ownership to authorized users only.
+---
+
+## Credentials
+* **Google Cybersecurity Professional Certificate** - Issued by Coursera
+* **Completion Date:** TBD
+* 
