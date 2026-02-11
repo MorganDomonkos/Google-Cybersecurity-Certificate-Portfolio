@@ -7,19 +7,14 @@ Operating Systems: Linux (CLI), Windows, macOS
 Security Tools: Chronicle (SIEM), Suricata (IDS), Wireshark (Packet Analysis), Tcpdump
 Frameworks: NIST Cybersecurity Framework (CSF), NIST SP 800-53, NIST SP 800-61 (Incident Response)
 
-## Project Highlights
-### Governance & Compliance
-**Controls and Compliance Checklist**
-* **Objective:** Evaluated organizational security posture against industry standards.Conducted a gap analysis to identify missing administrative, technical, and physical controls.
-
-### Incident Response & Analysis
-*This section demonstrates my ability to document and analyze security events across the incident lifecycle.*
-
-| Project | Focus Area | Key Deliverable |
-| :--- | :--- | :--- |
-| **Cybersecurity Incident Report** | Detection & Containment | Detailed log of a simulated breach and immediate response steps. |
-| **Incident Report Analysis** | Root Cause Analysis | Evaluation of threat actor TTPs (Tactics, Techniques, and Procedures). |
-| **Security Incident Report** | Post-Incident Reporting | Comprehensive summary for stakeholders including remediation steps. |
+## Projects: 
+| | 
+| :--- | 
+| **Cybersecurity Incident Report** |
+| **Incident Report Analysis** |
+| **Security Incident Report** |
+| **Linux File Permisisons** | 
+| **Applying Filters to SQL Queries for Investigation** |
 
 ### Technical Operations (Linux)
 **Managing File Permissions via CLI**
@@ -28,7 +23,14 @@ Frameworks: NIST Cybersecurity Framework (CSF), NIST SP 800-53, NIST SP 800-61 (
     * Used `ls -l` to identify over-privileged files.
     * Applied `chmod` to restrict read/write/execute permissions.
     * Used `chown` to reassign file ownership to authorized users only.
----
+      
+### Technical Operations (SQL)
+* **Scenario:** Investigated security logs and employee data to identify potential unauthorized access.
+   * **Technical Implementation:**
+   * Used WHERE and AND filters to isolate failed login attempts occurring after-hours.
+   * Utilized OR logic to query specific dates of interest during an investigation.
+   * Applied NOT and LIKE operators with wildcards (%) to filter records. 
+
 
 ## Credentials
 * **Google Cybersecurity Professional Certificate** - Issued by Coursera
