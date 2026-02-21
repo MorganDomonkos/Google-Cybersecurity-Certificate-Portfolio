@@ -52,4 +52,10 @@ A collection of labs, projects, and security audits completed during the Google 
 * **Implementation:**
   * Used `WHERE` and `AND` filters to isolate failed login attempts.
   * Utilized `OR` logic to query specific investigation dates.
-  * Applied `NOT
+  * Applied `NOT` and `LIKE` operators with wildcards (%) to filter records.
+
+---
+
+## Credentials
+* **Certificate:** Google Cybersecurity Professional Certificate (via Coursera)
+* **Completion Date:** TBD
